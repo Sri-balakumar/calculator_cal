@@ -94,11 +94,5 @@ Optimized files will be generated in the `dist` folder 📦
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ⭐ Star this repository if you found it useful!
 
